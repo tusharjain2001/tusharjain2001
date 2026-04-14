@@ -20,11 +20,7 @@ I love building responsive, user-friendly, and modern web applications. Currentl
 - **[Seraphon Global](https://seraphonglobal.com)** – Professional business website built with modern frontend technologies to ensure performance and scalability. 
 
 ---
-
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tushar-jain2001/)  
-- [Portfolio](https://tusharjain-portfolio.vercel.app/)  
-- 📧 Email: tusharjainqwerty@gmail.com  
+ 
 
 ---
 ⭐️ Always learning, building, and improving!
